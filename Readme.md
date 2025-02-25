@@ -29,28 +29,28 @@ Email-id  = dipyamandas96@gmail.com
 # My All Projects
 =====================================
 
-### Project Overview
+# Project Overview
 
 This repository contains a collection of projects developed in Java.
 
 ### Projects
 
-#### 1. Diamond Pattern 
+### 1. Diamond Pattern 
 
-#### 2. Star Pattern
+### 2. Star Pattern
 
-#### 3. Right angle triangle number pattern
+### 3. Right angle triangle number pattern
 
-#### 4. 180 flip right angle triangle
+### 4. 180 flip right angle triangle
 
-#### 5. 
+### 5. 
 
-#### 6. 
+### 6. 
 
-#### 7. 
+### 7. 
 
-#### 8. 
+### 8. 
 
-#### 9. 
+### 9. 
 
-#### 10. 
+### 10. 
