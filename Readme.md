@@ -11,19 +11,19 @@ Email-id  = dipyamandas96@gmail.com
 <br>
 3 >  Right angle triangle number pattern
 <br>
-4 >  Alphabet Pattern
+4 >  180 flip right angle triangle
 <br>
-5 >  Alphabet Pattern with Number
+5 >  
 <br>
-6 >  Alphabet Pattern with Number and Special Character
+6 >  
 <br>
-7 >  Alphabet Pattern with Number and Special Character with Space
+7 >  
 <br>
-8 >  Alphabet Pattern with Number and Special Character with Space and Alphabet
+8 >  
 <br>
-9 >  Alphabet Pattern with Number and Special Character with Space and Alphabet with Number
+9 >  
 <br>
-10 > Alphabet Pattern with Number and Special Character with Space and Alphabet with Number and Special Character
+10 > 
 <br>
 
 # My All Projects
@@ -41,7 +41,7 @@ This repository contains a collection of projects developed in Java.
 
 #### 3. Right angle triangle number pattern
 
-#### 4. 
+#### 4. 180 flip right angle triangle
 
 #### 5. 
 
